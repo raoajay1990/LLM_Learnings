@@ -6,3 +6,5 @@
 Tokenization
 1) Splitting text into individual words and subwords
 2) convert tokens into tokenId
+
+Dataset used: "The Verdict" by Edith Wharton
