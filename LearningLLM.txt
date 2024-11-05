@@ -1,0 +1,8 @@
+1 Tokenization
+2 Vector Embeddings
+3 LLM architecture
+
+
+Tokenization
+1) Splitting text into individual words and subwords
+2) convert tokens into tokenId
